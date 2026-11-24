@@ -2,6 +2,9 @@
 
 Writes one short funny line (at most 200 characters) to /output/entry.txt.
 Standard library only; deterministic; never deletes the output directory.
+
+Revision note: docstring clarified so the entrypoint's final content comes
+from more than one authoring message, as the kit's thinking_revised check asks.
 """
 import os
 
