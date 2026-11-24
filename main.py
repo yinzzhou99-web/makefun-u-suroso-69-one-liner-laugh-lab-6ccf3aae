@@ -8,6 +8,7 @@ from more than one authoring message, as the kit's thinking_revised check asks.
 """
 import os
 
+# The vacuum frames the sock as an adoption, not a meal, to dodge the blame.
 LINE = "I didn't eat the sock \u2014 I adopted it, briefly and internally, without consulting HR."
 
 
